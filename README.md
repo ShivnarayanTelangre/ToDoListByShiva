@@ -1,2 +1,2 @@
 # ToDoListByShiva
-link of project : https://cute-platypus-213fe3.netlify.app/
+link of project :https://todolistbyshiva.netlify.app/
